@@ -1,4 +1,4 @@
-package com.example.dropwizard.flyway;
+package com.github.dropwizard.flyway;
 
 import com.googlecode.flyway.core.Flyway;
 import com.yammer.dropwizard.config.Configuration;

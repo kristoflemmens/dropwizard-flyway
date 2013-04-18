@@ -1,4 +1,4 @@
-package com.example.dropwizard.flyway;
+package com.github.dropwizard.flyway;
 
 import com.yammer.dropwizard.Bundle;
 import com.yammer.dropwizard.config.Bootstrap;
